@@ -1,0 +1,8 @@
+body /* estilo que vai ser colocar no body*/
+{
+    background-color: #000; /* plano de fundo vai ficar preto*/
+}
+
+h1 {
+    color: #fff; /*o h1 que é o Spotfy vai aparecer branco*/
+}
